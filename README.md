@@ -41,7 +41,7 @@ The code is still in the debugging phase, and I will be updating it until I reac
  1. The code still needs some debugging and fixing. 
  2. The components ( Caps and Inductors ) for the voltage regulator are not correct on the PCB and it depends on the Input Voltage. 
  3. Connector CN4 is for resetting and updating the code, but it connected to wrong pins on the ESP32. 
- 
+ 4. Admin password must be programmed before . 
 
 ## Work needs to be done : 
 I must update the schematic and the PCB to fix CN4 problem, also the code needs some user experience and finally, there must be an app on smartphones ( iOS and Android ) to support the Door. 
